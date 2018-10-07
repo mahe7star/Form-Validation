@@ -1,0 +1,29 @@
+.card {
+  width: 100%;
+}
+
+form {
+  width: 100%;
+}
+
+form .alert {
+  display: none;
+}
+
+form .alert.in {
+  display: block;
+}
+
+form .btn {
+  width: 100%;
+}
+
+form .checkboxes {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/*# sourceMappingURL=style.css.map */

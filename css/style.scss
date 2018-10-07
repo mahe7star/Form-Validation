@@ -1,0 +1,19 @@
+.card{
+    width: 100%;
+}
+form{
+    width: 100%;
+    .alert{
+        display: none;
+        &.in{
+            display: block;
+        }
+    }
+    .btn{
+        width: 100%;
+    }
+    .checkboxes{
+        display: flex;
+        justify-content: space-between;
+    }
+}
